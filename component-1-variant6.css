@@ -1,0 +1,3914 @@
+.technical-program-committeetc {
+  position: relative;
+  line-height: 26px;
+  font-weight: 900;
+}
+.website-structure {
+  width: 1206px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.prof-alvaro-fuentes {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.research-professor-info {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-34xl);
+}
+.core-research-institute,
+.research-professor {
+  margin: 0;
+}
+.research-professor-core-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.professor-list,
+.researcher-names {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.researcher-names {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-16xl-5) var(--padding-24xl-5);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.prof-moussa-mahamat {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dean-faculty-of,
+.nile-university-of {
+  margin: 0;
+}
+.dean-faculty-of-container {
+  flex: 1;
+  position: relative;
+  line-height: 26px;
+}
+.dean-faculty-of-computing-nil-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-11xl) 0 30.5px;
+  font-size: var(--font-size-lg);
+}
+.dean-faculty-of-computing-nil-wrapper,
+.prof-moussa-mahamat-boukar-parent,
+.professor-list1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.prof-moussa-mahamat-boukar-parent {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-16xl-5) 36.5px;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list1 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-jayabrabu-ramakrishnan {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-jayabrabu-ramakrishnan-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xl) 0 var(--padding-5xl-5);
+}
+.college-of-computer,
+.department-of-information,
+.head-excellence,
+.jazan-university-jazan {
+  margin: 0;
+}
+.department-of-information-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 26px;
+}
+.frame-parent9,
+.professor-list2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent9 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: 22.5px 23.5px;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list2 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-jehan-murugadhas {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-jehan-murugadhas-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) 0 15.5px;
+}
+.assistant-professor,
+.university-of-technology {
+  margin: 0;
+}
+.assistant-professor-universit-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent10,
+.professor-list3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent10 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-29xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list3 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-loannis-e {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-loannis-e-sarris-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xl) 0 var(--padding-8xl-5);
+}
+.greece,
+.university-of-west {
+  margin: 0;
+}
+.university-of-west-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent11,
+.professor-list4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent11 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list4 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-rifaqat-ali {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-rifaqat-ali-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-48xl) 0 var(--padding-48xl-5);
+}
+.king-khalid-university,
+.saudi-arabia {
+  margin: 0;
+}
+.king-khalid-university-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent12,
+.professor-list5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent12 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list5 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-sarita-singh {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-sarita-singh-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-37xl);
+}
+.iit-kanpur,
+.professor3 {
+  margin: 0;
+}
+.professor-iit-kanpur-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent13,
+.professor-list6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent13 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list6 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-deepika-singh {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-deepika-singh-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-24xl);
+}
+.associate-professor,
+.iiit-lucknow {
+  margin: 0;
+}
+.associate-professor-iiit-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent14,
+.professor-list7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent14 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list7 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-vivek-singh {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-vivek-singh-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-39xl);
+}
+.assistant-professor1,
+.iit-roorkee {
+  margin: 0;
+}
+.assistant-professor-iit-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent15,
+.professor-list8 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent15 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list8 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-mohit-sharma {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-mohit-sharma-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 45px 0 var(--padding-26xl-5);
+}
+.assistant-professor2,
+.iit-bhubaneswar {
+  margin: 0;
+}
+.assistant-professor-iit-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent16,
+.professor-list9 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent16 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list9 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-rohit-gupta {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-rohit-gupta-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-38xl) 0 var(--padding-38xl-5);
+}
+.assistant-professor3,
+.iit-varanasi {
+  margin: 0;
+}
+.assistant-professor-iit-container2 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent17,
+.professor-list10 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent17 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list10 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-sneha-sharma {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-sneha-sharma-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-23xl) 0 42.5px;
+}
+.associate-professor1,
+.iiit-pune {
+  margin: 0;
+}
+.associate-professor-iiit-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent18,
+.professor-list11 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent18 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list11 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-rishi-kant {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-rishi-kant-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 68px 0 68.5px;
+}
+.assistant-professor4,
+.iit-bombay {
+  margin: 0;
+}
+.assistant-professor-iit-container3 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent19,
+.professor-list12 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent19 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list12 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-puja-mishra {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-puja-mishra-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-39xl) 0 var(--padding-39xl-5);
+}
+.associate-professor2,
+.iiit-delhi {
+  margin: 0;
+}
+.associate-professor-iiit-container2 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent20,
+.professor-list13 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent20 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list13 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-vineet-kumar {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-vineet-kumar-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-29xl) 0 var(--padding-29xl-5);
+}
+.assistant-professor5,
+.iiit-delhi1 {
+  margin: 0;
+}
+.assistant-professor-iiit-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent21,
+.professor-list14 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent21 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list14 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-aarti-sharma {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-aarti-sharma-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-31xl) 0 var(--padding-31xl-5);
+}
+.associate-professor3,
+.iiit-allahabad {
+  margin: 0;
+}
+.associate-professor-iiit-container3 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent22,
+.professor-list15 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent22 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list15 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-aditya-singh {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-aditya-singh-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-34xl);
+}
+.assistant-professor6,
+.iit-mandi {
+  margin: 0;
+}
+.assistant-professor-iit-container4 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent23,
+.professor-list16 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent23 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list16 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-abhishek-kumar {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-abhishek-kumar-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 32px;
+}
+.assistant-professor7,
+.iit-guwahati {
+  margin: 0;
+}
+.assistant-professor-iit-container5 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent24,
+.professor-list17 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent24 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list17 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-meenakshi-singh {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-meenakshi-singh-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xl) 0 var(--padding-8xl-5);
+}
+.associate-professor4,
+.iit-indore {
+  margin: 0;
+}
+.associate-professor-iit-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent25,
+.professor-list18 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent25 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list18 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-vivek-gupta {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-vivek-gupta-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-36xl) 0 var(--padding-36xl-5);
+}
+.assistant-professor8,
+.iit-ropar {
+  margin: 0;
+}
+.assistant-professor-iit-container6 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent26,
+.professor-list19 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent26 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list19 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-seema-sharma {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-seema-sharma-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-20xl);
+}
+.iiit-hyderabad,
+.professor4 {
+  margin: 0;
+}
+.professor-iiit-hyderabad-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent27,
+.professor-list20 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent27 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list20 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-ankit-kumar {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-ankit-kumar-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-36xl) 0 var(--padding-36xl-5);
+}
+.assistant-professor9,
+.iit-bhu {
+  margin: 0;
+}
+.assistant-professor-iit-container7 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent28,
+.professor-list21 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent28 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list21 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-deepak-yadav {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-deepak-yadav-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-24xl) 0 var(--padding-24xl-5);
+}
+.associate-professor5,
+.iiit-delhi2 {
+  margin: 0;
+}
+.associate-professor-iiit-container4 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent29,
+.professor-list22 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent29 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list22 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-prachi-gupta {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-prachi-gupta-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 69px 0 69.5px;
+}
+.assistant-professor10,
+.iit-hyderabad {
+  margin: 0;
+}
+.assistant-professor-iit-container8 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent30,
+.professor-list23 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent30 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-29xl-5);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list23 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-amit-singh {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-amit-singh-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 63px;
+}
+.nit-raipur,
+.professor5 {
+  margin: 0;
+}
+.professor-nit-raipur-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent31,
+.professor-list24 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent31 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list24 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-neha-verma {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-neha-verma-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-36xl);
+}
+.assistant-professor11,
+.iit-bhu1 {
+  margin: 0;
+}
+.assistant-professor-iit-container9 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent32,
+.professor-list25 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent32 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list25 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-anurag-sharma {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-anurag-sharma-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-18xl);
+}
+.associate-professor6,
+.iit-jodhpur {
+  margin: 0;
+}
+.associate-professor-iit-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent33,
+.professor-list26 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent33 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list26 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-preeti-yadav {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-preeti-yadav-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-34xl) 0 53.5px;
+}
+.assistant-professor12,
+.iiit-delhi3 {
+  margin: 0;
+}
+.assistant-professor-iiit-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent34,
+.professor-list27 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent34 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list27 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-ashish-verma {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-ashish-verma-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-27xl) 0 var(--padding-27xl-5);
+}
+.associate-professor7,
+.nit-calicut {
+  margin: 0;
+}
+.associate-professor-nit-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent35,
+.professor-list28 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent35 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list28 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-swati-sharma {
+  flex: 1;
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-swati-sharma-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-38xl) 0 var(--padding-38xl-5);
+}
+.assistant-professor13,
+.iit-gandhinagar {
+  margin: 0;
+}
+.assistant-professor-iit-container10 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent36,
+.professor-list29 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent36 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-24xl-5);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list29 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-vikas-gupta {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-vikas-gupta-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-37xl);
+}
+.iit-kharagpur,
+.professor6 {
+  margin: 0;
+}
+.professor-iit-kharagpur-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent37,
+.professor-list30 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent37 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list30 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-ananya-singh {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-ananya-singh-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 47px;
+}
+.assistant-professor14,
+.iit-bombay1 {
+  margin: 0;
+}
+.assistant-professor-iit-container11 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent38,
+.professor-list31 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent38 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list31 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-manoj-kumar {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-manoj-kumar-sharma-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 3.5px;
+}
+.associate-professor8,
+.iit-delhi {
+  margin: 0;
+}
+.associate-professor-iit-container2 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent39,
+.professor-list32 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent39 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list32 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-anita-singh {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-anita-singh-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 60px;
+}
+.assistant-professor15,
+.iiit-allahabad1 {
+  margin: 0;
+}
+.assistant-professor-iiit-container2 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent40,
+.professor-list33 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent40 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list33 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-shruti-vashisth {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-shruti-vashisth-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-34xl);
+}
+.assistant-professor16,
+.iitm-janakpuri {
+  margin: 0;
+}
+.assistant-professor-iitm-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent41,
+.professor-list34 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent41 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-33xl-5);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list34 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-prashant-kumar {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-prashant-kumar-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-15xl);
+}
+.associate-professor9,
+.nit-surathkal {
+  margin: 0;
+}
+.associate-professor-nit-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent42,
+.professor-list35 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent42 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list35 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-renuka-sharma {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-renuka-sharma-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-17xl);
+}
+.assistant-professor17,
+.iit-delhi1 {
+  margin: 0;
+}
+.assistant-professor-iit-container12 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent43,
+.professor-list36 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent43 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list36 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-manish-singh {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-manish-singh-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-29xl);
+}
+.iiit-hyderabad1,
+.professor7 {
+  margin: 0;
+}
+.professor-iiit-hyderabad-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent44,
+.professor-list37 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent44 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list37 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-abhay-kumar {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-abhay-kumar-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-30xl);
+}
+.associate-professor10,
+.iit-madras {
+  margin: 0;
+}
+.associate-professor-iit-container3 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent45,
+.professor-list38 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent45 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list38 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-alok-verma {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-alok-verma-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-55xl) 0 74.5px;
+}
+.assistant-professor18,
+.iiit-bangalore {
+  margin: 0;
+}
+.assistant-professor-iiit-container3 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent46,
+.professor-list39 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent46 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-33xl-5);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list39 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-rahul-sharma {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-rahul-sharma-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-27xl) 0 var(--padding-27xl-5);
+}
+.iit-roorkee1,
+.professor8 {
+  margin: 0;
+}
+.professor-iit-roorkee-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent47,
+.professor-list40 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent47 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list40 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-anjali-singh {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-anjali-singh-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-39xl);
+}
+.assistant-professor19,
+.iiit-hyderabad2 {
+  margin: 0;
+}
+.assistant-professor-iiit-container4 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent48,
+.professor-list41 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent48 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list41 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-vikram-singh {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-vikram-singh-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-30xl) 0 49.5px;
+}
+.nit-patna,
+.professor9 {
+  margin: 0;
+}
+.professor-nit-patna-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent49,
+.professor-list42 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent49 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list42 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-rajesh-gupta {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-rajesh-gupta-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-30xl);
+}
+.associate-professor11,
+.nit-kurukshetra {
+  margin: 0;
+}
+.associate-professor-nit-container2 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent50,
+.professor-list43 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent50 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list43 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-priya-yadav {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-priya-yadav-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-39xl) 0 var(--padding-39xl-5);
+}
+.assistant-professor20,
+.bits-pilani {
+  margin: 0;
+}
+.assistant-professor-bits-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent51,
+.professor-list44 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent51 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list44 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-sunita-yadav {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-sunita-yadav-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 51px;
+}
+.nit-trichy,
+.professor10 {
+  margin: 0;
+}
+.professor-nit-trichy-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent52,
+.professor-list45 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent52 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list45 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-sonali-verma {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-sonali-verma-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-31xl) 0 var(--padding-31xl-5);
+}
+.assistant-professor21,
+.nit-hamirpur {
+  margin: 0;
+}
+.assistant-professor-nit-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent53,
+.professor-list46 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent53 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list46 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-neha-gupta {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-neha-gupta-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-38xl);
+}
+.nit-jamshedpur,
+.professor11 {
+  margin: 0;
+}
+.professor-nit-jamshedpur-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent54,
+.professor-list47 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent54 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list47 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-akshay-jain {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-akshay-jain-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-37xl) 0 56.5px;
+}
+.assistant-professor22,
+.nit-jalandhar {
+  margin: 0;
+}
+.assistant-professor-nit-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent55,
+.professor-list48 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent55 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list48 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-juhi-ranjan {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-juhi-ranjan-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-40xl) 0 59.5px;
+}
+.associate-professor12,
+.nit-durgapur {
+  margin: 0;
+}
+.associate-professor-nit-container3 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent56,
+.professor-list49 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent56 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list49 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-anushka-gupta {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-anushka-gupta-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-18xl) 0 37.5px;
+}
+.nit-patna1,
+.professor12 {
+  margin: 0;
+}
+.professor-nit-patna-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent57,
+.professor-list50 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent57 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list50 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-rohan-verma {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-rohan-verma-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-30xl);
+}
+.assistant-professor23,
+.nit-kurukshetra1 {
+  margin: 0;
+}
+.assistant-professor-nit-container2 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent58,
+.professor-list51 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent58 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list51 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-ritu-singh {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-ritu-singh-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-48xl) 0 var(--padding-48xl-5);
+}
+.bits-goa,
+.professor13 {
+  margin: 0;
+}
+.professor-bits-goa-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent59,
+.professor-list52 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent59 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list52 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-s-r {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-s-r-bhandari-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-27xl);
+}
+.manipal-university-jaipur,
+.professor14 {
+  margin: 0;
+}
+.professor-manipal-university-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent60,
+.professor-list53 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent60 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list53 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-rakesh-chandra {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.galgotias-university,
+.professor15 {
+  margin: 0;
+}
+.professor-galgotias-university-container {
+  flex: 1;
+  position: relative;
+  line-height: 26px;
+}
+.professor-galgotias-university-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-7xs) 0 6.5px;
+  font-size: var(--font-size-lg);
+}
+.dr-rakesh-chandra-gupta-parent,
+.professor-galgotias-university-wrapper,
+.professor-list54 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.dr-rakesh-chandra-gupta-parent {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) 60.5px;
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list54 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-swati-saxena {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-swati-saxena-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-29xl) 0 var(--padding-29xl-5);
+}
+.amity-university,
+.associate-professor13 {
+  margin: 0;
+}
+.associate-professor-amity-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent61,
+.professor-list55 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent61 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list55 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-prakash-kumar {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-prakash-kumar-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-20xl);
+}
+.assistant-professor24,
+.delhi-technological-university {
+  margin: 0;
+}
+.assistant-professor-delhi-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent62,
+.professor-list56 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent62 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list56 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.drpsriramakrishnan {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.drpsriramakrishnan-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xl) 0 var(--padding-5xl-5);
+}
+.amrita-vishwa-vidyapeetham,
+.assistant-professor25 {
+  margin: 0;
+}
+.assistant-professor-amrita-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent63,
+.professor-list57 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent63 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list57 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.drksathesh-kumar {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.drksathesh-kumar-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xl);
+}
+.alliance-university,
+.associate-professor14 {
+  margin: 0;
+}
+.associate-professor-alliance-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent64,
+.professor-list58 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent64 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-list58 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.dr-akey-sungheetha {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.dr-akey-sungheetha-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xl) 0 var(--padding-5xl-5);
+}
+.alliance-university1,
+.professor16 {
+  margin: 0;
+}
+.professor-alliance-university-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent65,
+.professor-details1,
+.professor-list59 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent65 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-details1,
+.professor-list59 {
+  flex-direction: row;
+  max-width: 100%;
+}
+.professor-list59 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+}
+.professor-details1 {
+  align-self: stretch;
+  flex-wrap: wrap;
+  gap: 32px 30px;
+  min-height: 4608px;
+}
+.dr-r-rajesh {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.professor-name {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xl);
+}
+.alliance-university2,
+.associate-professor15 {
+  margin: 0;
+}
+.associate-professor-alliance-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.professor-data,
+.professor-description,
+.professor-details2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.professor-details2 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-data,
+.professor-description {
+  max-width: 100%;
+}
+.professor-data {
+  align-self: stretch;
+  height: 200px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+}
+.professor-description {
+  width: 404px;
+  flex-direction: column;
+  padding: 0 var(--padding-lgi) 0 0;
+  box-sizing: border-box;
+  min-width: 263px;
+}
+.drdnageswara-rao {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.full-name {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xl);
+}
+.alliance-university3,
+.professor17 {
+  margin: 0;
+}
+.professor-alliance-university-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.name-details,
+.professor-names {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.name-details {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-names {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+  flex-direction: row;
+  max-width: 100%;
+}
+.drdnageswara-rao1 {
+  position: relative;
+  line-height: 26px;
+  font-weight: 500;
+}
+.drdnageswara-rao-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-8xl);
+}
+.alliance-university4,
+.professor18 {
+  margin: 0;
+}
+.professor-alliance-university-container2 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.frame-parent66,
+.professor-info,
+.professor-names1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent66 {
+  margin-top: -10.5px;
+  margin-left: -19px;
+  width: 423px;
+  flex-direction: column;
+  padding: var(--padding-42xl-5) var(--padding-48xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  max-width: 110%;
+}
+.professor-info,
+.professor-names1 {
+  flex-direction: row;
+  max-width: 100%;
+}
+.professor-names1 {
+  height: 200px;
+  width: 385px;
+  box-shadow: var(--effect);
+  background-color: var(--color-white);
+}
+.professor-info {
+  align-self: stretch;
+  flex-wrap: wrap;
+  padding: 0 var(--padding-lgi) 0 0;
+  box-sizing: border-box;
+  gap: 13px;
+}
+.component-1variant6,
+.professor-details-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-family: var(--font-inter);
+}
+.professor-details-parent {
+  align-self: stretch;
+  gap: var(--gap-13xl);
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.component-1variant6 {
+  width: 100%;
+  position: relative;
+  padding: 0 8px 0 0;
+  box-sizing: border-box;
+  gap: 87px;
+  line-height: normal;
+  letter-spacing: normal;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslateblue);
+  margin-top: 60px;
+  margin-left: 129px;
+}
+@media screen and (max-width: 750px) {
+  .technical-program-committeetc {
+    font-size: var(--font-size-7xl);
+    line-height: 21px;
+  }
+}
+@media screen and (max-width: 675px) {
+  .professor-details-parent {
+    gap: var(--gap-base);
+  }
+  .component-1variant6 {
+    gap: 43px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .prof-alvaro-fuentes,
+  .technical-program-committeetc {
+    font-size: var(--font-size-lgi);
+    line-height: 16px;
+  }
+  .prof-alvaro-fuentes {
+    line-height: 21px;
+  }
+  .research-professor-info,
+  .researcher-names {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list {
+    gap: var(--gap-29xl);
+  }
+  .prof-moussa-mahamat {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .professor-list1 {
+    gap: var(--gap-29xl);
+  }
+  .dr-jayabrabu-ramakrishnan {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .professor-list2 {
+    gap: var(--gap-29xl);
+  }
+  .dr-jehan-murugadhas {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .frame-parent10 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list3 {
+    gap: var(--gap-29xl);
+  }
+  .dr-loannis-e {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .frame-parent11 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list4 {
+    gap: var(--gap-29xl);
+  }
+  .dr-rifaqat-ali {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-rifaqat-ali-wrapper,
+  .frame-parent12 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list5 {
+    gap: var(--gap-29xl);
+  }
+  .dr-sarita-singh {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-sarita-singh-wrapper,
+  .frame-parent13 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list6 {
+    gap: var(--gap-29xl);
+  }
+  .dr-deepika-singh {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-deepika-singh-wrapper,
+  .frame-parent14 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list7 {
+    gap: var(--gap-29xl);
+  }
+  .dr-vivek-singh {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-vivek-singh-wrapper,
+  .frame-parent15 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list8 {
+    gap: var(--gap-29xl);
+  }
+  .dr-mohit-sharma {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-mohit-sharma-wrapper,
+  .frame-parent16 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list9 {
+    gap: var(--gap-29xl);
+  }
+  .dr-rohit-gupta {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-rohit-gupta-wrapper,
+  .frame-parent17 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list10 {
+    gap: var(--gap-29xl);
+  }
+  .dr-sneha-sharma {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-sneha-sharma-wrapper,
+  .frame-parent18 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list11 {
+    gap: var(--gap-29xl);
+  }
+  .dr-rishi-kant {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-rishi-kant-wrapper,
+  .frame-parent19 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list12 {
+    gap: var(--gap-29xl);
+  }
+  .dr-puja-mishra {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-puja-mishra-wrapper,
+  .frame-parent20 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list13 {
+    gap: var(--gap-29xl);
+  }
+  .dr-vineet-kumar {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-vineet-kumar-wrapper,
+  .frame-parent21 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list14 {
+    gap: var(--gap-29xl);
+  }
+  .dr-aarti-sharma {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-aarti-sharma-wrapper,
+  .frame-parent22 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list15 {
+    gap: var(--gap-29xl);
+  }
+  .dr-aditya-singh {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-aditya-singh-wrapper,
+  .frame-parent23 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list16 {
+    gap: var(--gap-29xl);
+  }
+  .dr-abhishek-kumar {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .frame-parent24 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list17 {
+    gap: var(--gap-29xl);
+  }
+  .dr-meenakshi-singh {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .frame-parent25 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list18 {
+    gap: var(--gap-29xl);
+  }
+  .dr-vivek-gupta {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-vivek-gupta-wrapper,
+  .frame-parent26 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list19 {
+    gap: var(--gap-29xl);
+  }
+  .dr-seema-sharma {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .frame-parent27 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list20 {
+    gap: var(--gap-29xl);
+  }
+  .dr-ankit-kumar {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-ankit-kumar-wrapper,
+  .frame-parent28 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list21 {
+    gap: var(--gap-29xl);
+  }
+  .dr-deepak-yadav {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-deepak-yadav-wrapper,
+  .frame-parent29 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list22 {
+    gap: var(--gap-29xl);
+  }
+  .dr-prachi-gupta {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-prachi-gupta-wrapper,
+  .frame-parent30 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list23 {
+    gap: var(--gap-29xl);
+  }
+  .dr-amit-singh {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-amit-singh-wrapper,
+  .frame-parent31 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list24 {
+    gap: var(--gap-29xl);
+  }
+  .dr-neha-verma {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-neha-verma-wrapper,
+  .frame-parent32 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list25 {
+    gap: var(--gap-29xl);
+  }
+  .dr-anurag-sharma {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .frame-parent33 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list26 {
+    gap: var(--gap-29xl);
+  }
+  .dr-preeti-yadav {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-preeti-yadav-wrapper,
+  .frame-parent34 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list27 {
+    gap: var(--gap-29xl);
+  }
+  .dr-ashish-verma {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-ashish-verma-wrapper,
+  .frame-parent35 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list28 {
+    gap: var(--gap-29xl);
+  }
+  .dr-swati-sharma {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-swati-sharma-wrapper,
+  .frame-parent36 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list29 {
+    gap: var(--gap-29xl);
+  }
+  .dr-vikas-gupta {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-vikas-gupta-wrapper,
+  .frame-parent37 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list30 {
+    gap: var(--gap-29xl);
+  }
+  .dr-ananya-singh {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-ananya-singh-wrapper,
+  .frame-parent38 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list31 {
+    gap: var(--gap-29xl);
+  }
+  .dr-manoj-kumar {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .frame-parent39 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list32 {
+    gap: var(--gap-29xl);
+  }
+  .dr-anita-singh {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-anita-singh-wrapper,
+  .frame-parent40 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list33 {
+    gap: var(--gap-29xl);
+  }
+  .dr-shruti-vashisth {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-shruti-vashisth-wrapper,
+  .frame-parent41 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list34 {
+    gap: var(--gap-29xl);
+  }
+  .dr-prashant-kumar {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .frame-parent42 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list35 {
+    gap: var(--gap-29xl);
+  }
+  .dr-renuka-sharma {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .frame-parent43 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list36 {
+    gap: var(--gap-29xl);
+  }
+  .dr-manish-singh {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-manish-singh-wrapper,
+  .frame-parent44 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list37 {
+    gap: var(--gap-29xl);
+  }
+  .dr-abhay-kumar {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-abhay-kumar-wrapper,
+  .frame-parent45 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list38 {
+    gap: var(--gap-29xl);
+  }
+  .dr-alok-verma {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-alok-verma-wrapper,
+  .frame-parent46 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list39 {
+    gap: var(--gap-29xl);
+  }
+  .dr-rahul-sharma {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-rahul-sharma-wrapper,
+  .frame-parent47 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list40 {
+    gap: var(--gap-29xl);
+  }
+  .dr-anjali-singh {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-anjali-singh-wrapper,
+  .frame-parent48 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list41 {
+    gap: var(--gap-29xl);
+  }
+  .dr-vikram-singh {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-vikram-singh-wrapper,
+  .frame-parent49 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list42 {
+    gap: var(--gap-29xl);
+  }
+  .dr-rajesh-gupta {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-rajesh-gupta-wrapper,
+  .frame-parent50 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list43 {
+    gap: var(--gap-29xl);
+  }
+  .dr-priya-yadav {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-priya-yadav-wrapper,
+  .frame-parent51 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list44 {
+    gap: var(--gap-29xl);
+  }
+  .dr-sunita-yadav {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-sunita-yadav-wrapper,
+  .frame-parent52 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list45 {
+    gap: var(--gap-29xl);
+  }
+  .dr-sonali-verma {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-sonali-verma-wrapper,
+  .frame-parent53 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list46 {
+    gap: var(--gap-29xl);
+  }
+  .dr-neha-gupta {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-neha-gupta-wrapper,
+  .frame-parent54 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list47 {
+    gap: var(--gap-29xl);
+  }
+  .dr-akshay-jain {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-akshay-jain-wrapper,
+  .frame-parent55 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list48 {
+    gap: var(--gap-29xl);
+  }
+  .dr-juhi-ranjan {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-juhi-ranjan-wrapper,
+  .frame-parent56 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list49 {
+    gap: var(--gap-29xl);
+  }
+  .dr-anushka-gupta {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .frame-parent57 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list50 {
+    gap: var(--gap-29xl);
+  }
+  .dr-rohan-verma {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-rohan-verma-wrapper,
+  .frame-parent58 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list51 {
+    gap: var(--gap-29xl);
+  }
+  .dr-ritu-singh {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-ritu-singh-wrapper,
+  .frame-parent59 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list52 {
+    gap: var(--gap-29xl);
+  }
+  .dr-s-r {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-s-r-bhandari-wrapper,
+  .frame-parent60 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list53 {
+    gap: var(--gap-29xl);
+  }
+  .dr-rakesh-chandra {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-rakesh-chandra-gupta-parent {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list54 {
+    gap: var(--gap-29xl);
+  }
+  .dr-swati-saxena {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .dr-swati-saxena-wrapper,
+  .frame-parent61 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list55 {
+    gap: var(--gap-29xl);
+  }
+  .dr-prakash-kumar {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .frame-parent62 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list56 {
+    gap: var(--gap-29xl);
+  }
+  .drpsriramakrishnan {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .frame-parent63 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list57 {
+    gap: var(--gap-29xl);
+  }
+  .drksathesh-kumar {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .frame-parent64 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list58 {
+    gap: var(--gap-29xl);
+  }
+  .dr-akey-sungheetha {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .frame-parent65 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-list59 {
+    gap: var(--gap-29xl);
+  }
+  .dr-r-rajesh {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .professor-details2 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-data {
+    gap: var(--gap-29xl);
+  }
+  .drdnageswara-rao {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .name-details {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-names {
+    gap: var(--gap-29xl);
+  }
+  .drdnageswara-rao1 {
+    font-size: var(--font-size-lgi);
+    line-height: 21px;
+  }
+  .frame-parent66 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .professor-names1 {
+    gap: var(--gap-29xl);
+  }
+  .component-1variant6 {
+    gap: var(--gap-3xl);
+  }
+}
